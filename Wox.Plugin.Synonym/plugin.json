@@ -1,0 +1,12 @@
+{
+    "ID":"3850C835DD244EC99B62B4BA754EF045",
+    "ActionKeyword":"sy",
+    "Name":"Synonym",
+    "Description":"Find word's Synonyms",
+    "Author":"xguillemot",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"http://www.plasma.paris/",
+    "ExecuteFileName":"Wox.Plugin.Synonym.dll",
+	"IcoPath":"Images\\synonym-ico.ico"
+}

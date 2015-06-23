@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wox.Plugin.Translator", "Wox.Plugin.Translator\Wox.Plugin.Translator.csproj", "{878F8215-474C-40F9-95FE-99FA7527D53B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{634384E1-B26F-46C9-BBF2-B9371780FBE2}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Wox.Plugins", "Test.Wox.Plugins\Test.Wox.Plugins.csproj", "{09B3289B-66B4-4DF3-81A1-93F6D646770D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wox.Plugin.Synonym", "Wox.Plugin.Synonym\Wox.Plugin.Synonym.csproj", "{20DBC221-177C-45FF-8527-99D512B6F744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wox.Plugin.Common", "Wox.Plugin.Common\Wox.Plugin.Common.csproj", "{AE753915-941B-4083-BFA9-F69A24DB97AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{517CEF4C-A37C-4989-BABC-3644ED0083C0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878F8215-474C-40F9-95FE-99FA7527D53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878F8215-474C-40F9-95FE-99FA7527D53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878F8215-474C-40F9-95FE-99FA7527D53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878F8215-474C-40F9-95FE-99FA7527D53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B3289B-66B4-4DF3-81A1-93F6D646770D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B3289B-66B4-4DF3-81A1-93F6D646770D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B3289B-66B4-4DF3-81A1-93F6D646770D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B3289B-66B4-4DF3-81A1-93F6D646770D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DBC221-177C-45FF-8527-99D512B6F744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DBC221-177C-45FF-8527-99D512B6F744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DBC221-177C-45FF-8527-99D512B6F744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DBC221-177C-45FF-8527-99D512B6F744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE753915-941B-4083-BFA9-F69A24DB97AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE753915-941B-4083-BFA9-F69A24DB97AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE753915-941B-4083-BFA9-F69A24DB97AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE753915-941B-4083-BFA9-F69A24DB97AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

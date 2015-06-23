@@ -1,0 +1,12 @@
+{
+    "ID":"0A7B24FF5E494CD999820196FED4539B",
+    "ActionKeyword":"tr",
+    "Name":"Translator",
+    "Description":"Translate words",
+    "Author":"xguillemot",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"http://www.plasma.paris/",
+    "ExecuteFileName":"Wox.Plugin.Translator.dll",
+	"IcoPath":"Images\\translate-ico.ico"
+}

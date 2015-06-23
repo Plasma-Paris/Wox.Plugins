@@ -6,6 +6,12 @@ Plug-In list :
 
 ## 	Translator
 
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Translator/Images/usage.png)
+
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Translator/Images/exemple.png)
+
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Translator/Images/settings.png)
+
 ###		 About 
 Use MyMemory API or Yandex API for translate from many language to another
 

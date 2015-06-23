@@ -38,6 +38,12 @@ tr {source-language} {destination-language} {words} (ex: {0} en fr Hello everyon
 
 ## 	Synonym
 
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Synonym/Images/usage.png)
+
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Synonym/Images/exemple.png)
+
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Synonym/Images/settings.png)
+
 ###		 About 
 Use Thesaurus Api for find synonymous for a predefined language in settings
 
@@ -53,12 +59,8 @@ sy {word}
 ```
 
 ## 	TODO 
-		*Common* :
-			- Readme
-			- Unit Test
+*Common* :
+	- Unit Test
 
-		*Wox.Plugin.Translator*
-			- Use WPF Best Practice for SettingsForm and SettingElements view model
-
-		*Wox.Plugin.Synonym*
-			- Icon
+*Wox.Plugin.Translator*
+	- Use WPF Best Practice for SettingsForm and SettingElements view model

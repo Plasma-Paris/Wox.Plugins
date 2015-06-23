@@ -60,7 +60,7 @@ sy {word}
 
 ## 	TODO 
 *Common* :
-	- Unit Test
+- Unit Test
 
 *Wox.Plugin.Translator*
-	- Use WPF Best Practice for SettingsForm and SettingElements view model
+- Use WPF Best Practice for SettingsForm and SettingElements view model

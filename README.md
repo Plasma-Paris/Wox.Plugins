@@ -3,6 +3,7 @@
 Plug-In list :
  - Translator
  - Synonym
+ - Jrnl
 
 ## 	Translator
 
@@ -58,9 +59,30 @@ sy {word}
 }
 ```
 
+## 	Jrnl
+TODO
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Jrnl/Images/usage.png)
+
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Jrnl/Images/exemple.png)
+
+![](https://github.com/Plasma-Paris/Wox.Plugins/raw/master/Wox.Plugin.Jrnl/Images/settings.png)
+
+###		 About 
+Use Jrnl command line tool for showing and editing Jrnl entries.
+Jrnl (http://maebert.github.io/jrnl/) must be installed.
+
+###		 Usage 
+TODO
+
+###		 Settings 
+TODO
+
 ## 	TODO 
 *Common* :
 - Unit Test
 
 *Wox.Plugin.Translator*
 - Use WPF Best Practice for SettingsForm and SettingElements view model
+
+*Wox.Plugin.Jrnl*
+- Complete the README.md

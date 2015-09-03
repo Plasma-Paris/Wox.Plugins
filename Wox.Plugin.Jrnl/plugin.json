@@ -1,0 +1,12 @@
+{
+    "ID":"1B81BE8D35654163A45801D4D8C1BA01",
+    "ActionKeyword":"jrnl",
+    "Name":"Jrnl",
+    "Description":"Use Jrnl command line API for write note and journal",
+    "Author":"xguillemot",
+    "Version":"1.0",
+    "Language":"csharp",
+    "Website":"http://www.plasma.paris/",
+    "ExecuteFileName":"Wox.Plugin.Jrnl.dll",
+	"IcoPath":"Images\\jrnl-ico.ico"
+}
